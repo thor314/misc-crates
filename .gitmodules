@@ -1,0 +1,12 @@
+[submodule "ollama"]
+	path = ollama
+	url = git@github.com:thor314/ollama.git
+[submodule "parser_play"]
+	path = parser_play
+	url = git@github.com:thor314/parser_play.git
+[submodule "rhai"]
+	path = rhai
+	url = git@github.com:thor314/rhai.git
+[submodule "tap_validator"]
+	path = tap_validator
+	url = git@github.com:thor314/tap_validator.git
